@@ -1,0 +1,11 @@
+div{
+	width: 300px;
+	height: 300px;
+	margin: 150px;
+	padding: 50px;
+	color: grey;
+}
+p{
+	font-size: 25px;
+	color:aqua;
+}
